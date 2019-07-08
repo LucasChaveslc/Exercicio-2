@@ -1,0 +1,63 @@
+.top-nav{ 
+    background-color: darkblue;
+    padding: 6px;
+    color: white;
+
+}
+.nav{
+    font-size: 125%;
+}
+.logo-img{
+    width: 55%;
+}
+.row{
+    font-size: 70%;
+}
+.icon{
+    width: 5%;
+}
+.coluna{
+    margin-left: 10%;
+    padding-top: 3%;
+}
+.img-col{
+    padding-top: 3%;
+    width: 80% !important;
+}
+.cards{
+    padding-top: 3%;
+    background-color: darkblue;
+}
+.icone-block{
+    
+    margin-left: 50%;
+    padding-top: 2%;
+}
+.titulo-2{
+    text-align: center;
+}
+.msg-form{
+    margin-left: 50%;
+    width: 200%;
+}
+.low-nav{
+    background-color: darkblue;
+    padding: 50px;
+    color: white;
+
+}
+.icon-2{
+    width: 30%;
+    align-items: center;
+    margin-left: 35%;
+}
+.texto-low{
+    font-size: 150%;
+    margin-left: 27%;
+    margin-top: 8%;
+}
+.img-low{
+    margin-left: 47%;
+    margin-top: 10%;
+    width: 7%;
+}
